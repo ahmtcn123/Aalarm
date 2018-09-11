@@ -6,8 +6,9 @@ Simple alarm app
 
 _____________________________
 
--Basic interface 
--Random UI co
+- Basic interface 
+
+- Random UI colors
 
 ![v2](https://user-images.githubusercontent.com/26122392/45332950-41d74800-b57c-11e8-99cf-87a51679d443.png)
 ![v1](https://user-images.githubusercontent.com/26122392/45332946-3e43c100-b57c-11e8-9434-3c93f2b6601b.png)
