@@ -1,3 +1,5 @@
+<img src="https://electronjs.org/app-img/aalarm/aalarm-icon-128.png">
+
 # Aalarm
 
 _____________________________
